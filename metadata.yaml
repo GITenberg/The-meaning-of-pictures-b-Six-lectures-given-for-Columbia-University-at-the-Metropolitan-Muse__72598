@@ -1,5 +1,8 @@
 _repo: The-meaning-of-pictures-b-Six-lectures-given-for-Columbia-University-at-the-Metropolitan-Muse__72598
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72598-h/images/cover.jpg
 creator:
   author:
     agent_name: Van Dyke, John C.
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7733
     wikipedia: https://en.wikipedia.org/wiki/John_Charles_Van_Dyke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72598#The-meaning-of-pictures-b-Six-lectures-given-for-Columbia-University-at-the-Metropolitan-Muse_
 gutenberg_issued: '2024-01-02'
 gutenberg_type: Text
 identifiers:
